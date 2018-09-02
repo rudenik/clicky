@@ -6,4 +6,8 @@
 
 .container{
     width: 750px;
+    
+}
+.jumbotron{
+    text-align: center;
 }

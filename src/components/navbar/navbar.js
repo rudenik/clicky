@@ -9,12 +9,10 @@ const navbar = props => (
         </button>
         <div className="collapse navbar-collapse" id="navbarText">
             <ul className="navbar-nav mr-auto">
-                <li className="nav-item active">
-                    <a className="nav-link" href="/"> Your guess was <span className="sr-only">(current)</span></a>
-                </li>
+                
             </ul>
             <span className="navbar-text">
-                Score:
+               Keep clicking...
     </span>
         </div>
     </nav>
