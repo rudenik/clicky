@@ -1,0 +1,11 @@
+.header{
+    background-image: url("./leaves.png");
+    background-repeat: repeat;
+    text-align: center;
+    padding: 50px;
+    
+}
+h1, h2{
+    padding: 20px;
+    margin: 20px;
+}

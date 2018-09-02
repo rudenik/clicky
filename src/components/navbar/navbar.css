@@ -1,0 +1,27 @@
+.navbar{
+    /* background-color: blue; */
+    color: white;
+    width: 100%;
+    float: left;
+    position: fixed;
+    padding-right: 40px;
+    margin: 0px;
+    
+
+}
+.ul{
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    width: 100%;
+    display: inline-block;
+    /* float: left; */
+}
+.navbar> ul > li { 
+    float:left;
+    padding: 0px 25px 0px 25px; 
+    font-size: 2em;
+    position: relative;
+
+}
